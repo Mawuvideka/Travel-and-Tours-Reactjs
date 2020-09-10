@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+$mainBlack: rgb(34, 34, 34);
+$mainGreen: rgb(54, 240, 54);
+$mainWhite: white;
+$mainGrey: grey;
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background: $mainWhite;
+  color: $mainGreen;
+}
