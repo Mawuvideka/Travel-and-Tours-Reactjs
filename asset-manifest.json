@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Travel-and-Tours-Reactjs/static/css/main.6a29ae2c.chunk.css",
+    "main.js": "/Travel-and-Tours-Reactjs/static/js/main.093baae7.chunk.js",
+    "main.js.map": "/Travel-and-Tours-Reactjs/static/js/main.093baae7.chunk.js.map",
+    "runtime-main.js": "/Travel-and-Tours-Reactjs/static/js/runtime-main.e604da9a.js",
+    "runtime-main.js.map": "/Travel-and-Tours-Reactjs/static/js/runtime-main.e604da9a.js.map",
+    "static/js/2.c8f94ae3.chunk.js": "/Travel-and-Tours-Reactjs/static/js/2.c8f94ae3.chunk.js",
+    "static/js/2.c8f94ae3.chunk.js.map": "/Travel-and-Tours-Reactjs/static/js/2.c8f94ae3.chunk.js.map",
+    "index.html": "/Travel-and-Tours-Reactjs/index.html",
+    "precache-manifest.c6994b3e9063d869ee48295857b752f6.js": "/Travel-and-Tours-Reactjs/precache-manifest.c6994b3e9063d869ee48295857b752f6.js",
+    "service-worker.js": "/Travel-and-Tours-Reactjs/service-worker.js",
+    "static/css/main.6a29ae2c.chunk.css.map": "/Travel-and-Tours-Reactjs/static/css/main.6a29ae2c.chunk.css.map",
+    "static/js/2.c8f94ae3.chunk.js.LICENSE.txt": "/Travel-and-Tours-Reactjs/static/js/2.c8f94ae3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Travel-and-Tours-Reactjs/static/media/logo.f87f97b6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e604da9a.js",
+    "static/js/2.c8f94ae3.chunk.js",
+    "static/css/main.6a29ae2c.chunk.css",
+    "static/js/main.093baae7.chunk.js"
+  ]
+}
